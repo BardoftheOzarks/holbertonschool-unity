@@ -1,0 +1,372 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-07-22T14:46:30.211-05:00
+  initializedAtString: 2021-07-22T14:46:29.647-05:00
+  log:
+  - commitID: 55355e2e11a9845bfb5a3f3d2d9c17e2a2f5fe9d
+    mergeA: 
+    mergeB: 
+    authorName: BardoftheOzarks
+    authorEmail: 1886@holbertonschool.com
+    commitEmail: 1886@holbertonschool.com
+    commitName: BardoftheOzarks
+    summary: Corrected
+    description: 
+    timeString: 2021-07-19T17:11:25.000-05:00
+    commitTimeString: 2021-07-19T17:11:25.000-05:00
+    changes:
+    - path: 0x00-unity-user_interface\26-toolbar_transform
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\26-toolbar_transform
+      projectPath: ..\..\0x00-unity-user_interface\26-toolbar_transform
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 5d2e8de71855395e696e898446afeecccf1921f2
+    mergeA: 
+    mergeB: 
+    authorName: BardoftheOzarks
+    authorEmail: 1886@holbertonschool.com
+    commitEmail: 1886@holbertonschool.com
+    commitName: BardoftheOzarks
+    summary: Added answers 19-31
+    description: 
+    timeString: 2021-07-19T16:45:10.000-05:00
+    commitTimeString: 2021-07-19T16:45:10.000-05:00
+    changes:
+    - path: 0x00-unity-user_interface\19-hierarchy_hotkey
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\19-hierarchy_hotkey
+      projectPath: ..\..\0x00-unity-user_interface\19-hierarchy_hotkey
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\20-inspector_properties
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\20-inspector_properties
+      projectPath: ..\..\0x00-unity-user_interface\20-inspector_properties
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\21-inspector_script_component
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\21-inspector_script_component
+      projectPath: ..\..\0x00-unity-user_interface\21-inspector_script_component
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\22-inspector_multiple
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\22-inspector_multiple
+      projectPath: ..\..\0x00-unity-user_interface\22-inspector_multiple
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\23-inspector_hotkey
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\23-inspector_hotkey
+      projectPath: ..\..\0x00-unity-user_interface\23-inspector_hotkey
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\24-toolbar_rotate
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\24-toolbar_rotate
+      projectPath: ..\..\0x00-unity-user_interface\24-toolbar_rotate
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\25-toolbar_pan
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\25-toolbar_pan
+      projectPath: ..\..\0x00-unity-user_interface\25-toolbar_pan
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\26-toolbar_transform
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\26-toolbar_transform
+      projectPath: ..\..\0x00-unity-user_interface\26-toolbar_transform
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\27-toolbar_scale
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\27-toolbar_scale
+      projectPath: ..\..\0x00-unity-user_interface\27-toolbar_scale
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\28-toolbar_move
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\28-toolbar_move
+      projectPath: ..\..\0x00-unity-user_interface\28-toolbar_move
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\29-toolbar_transform_2d
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\29-toolbar_transform_2d
+      projectPath: ..\..\0x00-unity-user_interface\29-toolbar_transform_2d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\30-toolbar_views
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\30-toolbar_views
+      projectPath: ..\..\0x00-unity-user_interface\30-toolbar_views
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\31-toolbar_displayed_objects
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\31-toolbar_displayed_objects
+      projectPath: ..\..\0x00-unity-user_interface\31-toolbar_displayed_objects
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 4cafdfcc78cb5ea55f03116ef9e084ea9ff47b0e
+    mergeA: 
+    mergeB: 
+    authorName: BardoftheOzarks
+    authorEmail: 1886@holbertonschool.com
+    commitEmail: 1886@holbertonschool.com
+    commitName: BardoftheOzarks
+    summary: Added answers 13-18
+    description: 
+    timeString: 2021-07-19T16:26:59.000-05:00
+    commitTimeString: 2021-07-19T16:26:59.000-05:00
+    changes:
+    - path: 0x00-unity-user_interface\13-game_aspect
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\13-game_aspect
+      projectPath: ..\..\0x00-unity-user_interface\13-game_aspect
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\14-game_zoom
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\14-game_zoom
+      projectPath: ..\..\0x00-unity-user_interface\14-game_zoom
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\15-hierarchy_order
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\15-hierarchy_order
+      projectPath: ..\..\0x00-unity-user_interface\15-hierarchy_order
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\16-hierarchy_reorder
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\16-hierarchy_reorder
+      projectPath: ..\..\0x00-unity-user_interface\16-hierarchy_reorder
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\17-hierarchy_parenting
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\17-hierarchy_parenting
+      projectPath: ..\..\0x00-unity-user_interface\17-hierarchy_parenting
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\18-hierarchy_child
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\18-hierarchy_child
+      projectPath: ..\..\0x00-unity-user_interface\18-hierarchy_child
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 43c16f6be963eeb8dfbe890f31a234d29a42dc59
+    mergeA: 
+    mergeB: 
+    authorName: BardoftheOzarks
+    authorEmail: 1886@holbertonschool.com
+    commitEmail: 1886@holbertonschool.com
+    commitName: BardoftheOzarks
+    summary: Added answers 7-12
+    description: 
+    timeString: 2021-07-19T16:20:44.000-05:00
+    commitTimeString: 2021-07-19T16:20:44.000-05:00
+    changes:
+    - path: 0x00-unity-user_interface\10-scene_center
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\10-scene_center
+      projectPath: ..\..\0x00-unity-user_interface\10-scene_center
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\11-game_view
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\11-game_view
+      projectPath: ..\..\0x00-unity-user_interface\11-game_view
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\12-game_camera
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\12-game_camera
+      projectPath: ..\..\0x00-unity-user_interface\12-game_camera
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\7-scene_perspective_isometric
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\7-scene_perspective_isometric
+      projectPath: ..\..\0x00-unity-user_interface\7-scene_perspective_isometric
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\8-scene_navigating
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\8-scene_navigating
+      projectPath: ..\..\0x00-unity-user_interface\8-scene_navigating
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\9-scene_hotkey
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\9-scene_hotkey
+      projectPath: ..\..\0x00-unity-user_interface\9-scene_hotkey
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 91bc92126ecb49c99ffd450bd5be057503575e40
+    mergeA: 
+    mergeB: 
+    authorName: BardoftheOzarks
+    authorEmail: 1886@holbertonschool.com
+    commitEmail: 1886@holbertonschool.com
+    commitName: BardoftheOzarks
+    summary: Added empty lines after each file
+    description: 
+    timeString: 2021-07-19T14:55:22.000-05:00
+    commitTimeString: 2021-07-19T14:55:22.000-05:00
+    changes:
+    - path: 0x00-unity-user_interface\0-project_add_new
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\0-project_add_new
+      projectPath: ..\..\0x00-unity-user_interface\0-project_add_new
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\1-project_filter
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\1-project_filter
+      projectPath: ..\..\0x00-unity-user_interface\1-project_filter
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\2-project_hotkey
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\2-project_hotkey
+      projectPath: ..\..\0x00-unity-user_interface\2-project_hotkey
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\3-console_hotkey
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\3-console_hotkey
+      projectPath: ..\..\0x00-unity-user_interface\3-console_hotkey
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\4-scene_x
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\4-scene_x
+      projectPath: ..\..\0x00-unity-user_interface\4-scene_x
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\5-scene_y
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\5-scene_y
+      projectPath: ..\..\0x00-unity-user_interface\5-scene_y
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\6-scene_z
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\6-scene_z
+      projectPath: ..\..\0x00-unity-user_interface\6-scene_z
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 5e6034e78d628d5e10c4fccfddbf9b8fa4b384b1
+    mergeA: 
+    mergeB: 
+    authorName: BardoftheOzarks
+    authorEmail: 1886@holbertonschool.com
+    commitEmail: 1886@holbertonschool.com
+    commitName: BardoftheOzarks
+    summary: Added answers 0-6
+    description: 
+    timeString: 2021-07-19T14:51:04.000-05:00
+    commitTimeString: 2021-07-19T14:51:04.000-05:00
+    changes:
+    - path: 0x00-unity-user_interface\0-project_add_new
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\0-project_add_new
+      projectPath: ..\..\0x00-unity-user_interface\0-project_add_new
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\1-project_filter
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\1-project_filter
+      projectPath: ..\..\0x00-unity-user_interface\1-project_filter
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\2-project_hotkey
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\2-project_hotkey
+      projectPath: ..\..\0x00-unity-user_interface\2-project_hotkey
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\3-console_hotkey
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\3-console_hotkey
+      projectPath: ..\..\0x00-unity-user_interface\3-console_hotkey
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\4-scene_x
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\4-scene_x
+      projectPath: ..\..\0x00-unity-user_interface\4-scene_x
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\5-scene_y
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\5-scene_y
+      projectPath: ..\..\0x00-unity-user_interface\5-scene_y
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 0x00-unity-user_interface\6-scene_z
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\6-scene_z
+      projectPath: ..\..\0x00-unity-user_interface\6-scene_z
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: dc4c8e39cf5409be6f885c11534850244080099a
+    mergeA: 
+    mergeB: 
+    authorName: BardoftheOzarks
+    authorEmail: 1886@holbertonschool.com
+    commitEmail: 1886@holbertonschool.com
+    commitName: BardoftheOzarks
+    summary: Initial push
+    description: 
+    timeString: 2021-07-19T14:09:55.000-05:00
+    commitTimeString: 2021-07-19T14:09:55.000-05:00
+    changes:
+    - path: 0x00-unity-user_interface\README.md
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\0x00-unity-user_interface\README.md
+      projectPath: ..\..\0x00-unity-user_interface\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\README.md
+      projectPath: ..\..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 5af5b29bced9a6969c47fd9af418e2b2e63b0950
+    mergeA: 
+    mergeB: 
+    authorName: BardoftheOzarks
+    authorEmail: 62080409+BardoftheOzarks@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2021-07-19T13:31:34.000-05:00
+    commitTimeString: 2021-07-19T13:31:34.000-05:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\ryan_\Holberton\holbertonschool-unity\.gitignore
+      projectPath: ..\..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
